@@ -1,16 +1,41 @@
-# meals
+# 🍽️ Meals App
 
-A new Flutter project.
+![Meals App Screens](https://github.com/user-attachments/assets/51b143aa-20ed-4b1e-a5a8-0e1ed95dd7b8)
 
-## Getting Started
+**Meals** is a simple and useful app built with **Flutter**, designed to help you explore tasty recipes, filter meals based on dietary preferences, and mark your favorite dishes.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🍝 Browse recipes by category (Italian, Asian, Summer, etc.)
+- 🧑‍🍳 View detailed recipes with ingredients and preparation steps
+- ⭐ Mark meals as favorites
+- 🧪 Filter meals (gluten-free, lactose-free, vegetarian, vegan)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – UI toolkit for building natively compiled applications
+- **Dart** – Programming language used with Flutter
+
+## 📦 Getting Started
+
+To run the app locally:
+
+```bash
+git clone https://github.com/yourusername/meals_app.git
+cd meals_app
+flutter pub get
+flutter run
+```
+
+## 🧭 Navigation
+
+- 🏠 **Categories:** Choose from a variety of meal categories.
+- 📋 **Meals:** Browse meals with info on duration, complexity, and affordability.
+- 📖 **Details:** View ingredients and step-by-step instructions.
+- ⭐ **Favorites:** See your favorite recipes in one place.
+- ⚙️ **Filters:** Customize your experience with dietary filters.
+
+---
+
+Enjoy cooking with the **Meals App**! 🍲  
+Feel free to contribute or give it a ⭐ on GitHub!
