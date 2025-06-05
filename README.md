@@ -13,8 +13,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Flutter** – UI toolkit for building natively compiled applications
-- **Dart** – Programming language used with Flutter
+- **Flutter** – Cross-platform UI toolkit
+- **Dart** – Programming language for Flutter
+- **Riverpod** – State management
+- **Google Fonts** – Custom typography
+- **Transparent Image** – Fade-in image loading
 
 ## 📦 Getting Started
 
