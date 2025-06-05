@@ -21,7 +21,7 @@
 To run the app locally:
 
 ```bash
-git clone https://github.com/yourusername/meals_app.git
+git clone https://github.com/auri-gabriel/meals.git
 cd meals_app
 flutter pub get
 flutter run
