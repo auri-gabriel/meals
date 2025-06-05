@@ -37,5 +37,4 @@ flutter run
 
 ---
 
-Enjoy cooking with the **Meals App**! 🍲  
-Feel free to contribute or give it a ⭐ on GitHub!
+Enjoy cooking with the **Meals App**! 🍲 
