@@ -38,8 +38,11 @@ class MealDetailsScreen extends ConsumerWidget {
             icon: AnimatedSwitcher(
               duration: const Duration(milliseconds: 300),
               transitionBuilder: (child, animation) {
-                return RotationTransition(
-                  turns: Tween<double>(begin: 0.8, end: 1).animate(animation),
+                return SlideTransition(
+                  position: Tween<Offset>(
+                    begin: const Offset(0.0, 1.0),
+                    end: Offset.zero,
+                  ).animate(animation),
                   child: child,
                 );
               },
